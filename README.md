@@ -1,5 +1,5 @@
 ### Hi there 👋
-## asdas
+> Front-End Developer (currently going into Full-Stack)
 
 <!--
 **imexotic/imexotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
