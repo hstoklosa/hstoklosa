@@ -1,6 +1,10 @@
 ### Hi there 👋
 > Front-End Developer (currently going into Full-Stack)
 
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+
+
 <!--
 **imexotic/imexotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
