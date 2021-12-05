@@ -1,7 +1,11 @@
 ### Hi there 👋
 > Front-End Developer (currently going into Full-Stack)
 
-I'm Hubert, a 18 year old Computer Science student from London.
+I'm Hubert, a developer from London.
+
+   - 👨‍🎓 Currently studying Computer Science at City, University of London.
+   - 🌐 Passionate about creating web applications.
+   - 🎯 On track to become a full-stack developer.
 
 ## Skills
 
@@ -12,7 +16,7 @@ I'm Hubert, a 18 year old Computer Science student from London.
 
 ## Contact
    - [exotic.dev](https://www.exotic.dev/)
-   - [instagram](https://www.instagram.com/imxlvs/) 
+   - [Instagram: imxlvs](https://www.instagram.com/imxlvs/) 
    - [Discord: exotic#3365](./)
 
     
