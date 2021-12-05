@@ -10,6 +10,11 @@ I'm Hubert, a 18 year old Computer Science student from London.
    - **Version Control**: Git, GitHub
    - **Software**: Visual Studio Code, Figma, Postman
 
+## Contact
+   - [exotic.dev](https://www.exotic.dev/)
+   - [instagram](https://www.instagram.com/imxlvs/) 
+   - [Discord: exotic#3365](./)
+
     
 <!--
 **imexotic/imexotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
