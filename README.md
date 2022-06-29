@@ -3,7 +3,7 @@
 
 I'm Hubert, a developer from London.
 
-   - 👨‍🎓 Currently studying Computer Science at City, University of London.
+   - 👨‍🎓 Currently studying Computer Science.
    - 🌐 Passionate about creating web applications.
    - 🎯 On track to become a full-stack developer.
 
