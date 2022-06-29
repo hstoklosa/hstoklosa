@@ -10,7 +10,7 @@ I'm Hubert, a developer from London.
 ## Skills
 
    - **Languages**: Python, Java, JavaScript (React)
-   - **Markup**: HTML5, CSS3, TailwindCSS
+   - **Markup**: HTML5, CSS3, TailwindCSS, Markdown
    - **Back-End**: MySQL, MongoDB, Express.js
    - **Version Control**: Git, GitHub
    
