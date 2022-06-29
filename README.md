@@ -13,8 +13,11 @@ I'm Hubert, a developer from London.
    - **Markup**: HTML5, CSS3, TailwindCSS
    - **Back-End**: MySQL, MongoDB, Express.js
    - **Version Control**: Git, GitHub
-   - **Software**: VS Code, IntelliJ IDEA, VIM, Figma, Postman
-      - **API**: Insomnia
+   
+   - **Software** 
+      - **API**: Postman, Insomnia
+      - **Development**: VS Code, IntelliJ IDEA, Vim
+      - **Design**: Figma, Axure RP
 
 ## Contact
    - [exotic.dev](https://www.exotic.dev/)
