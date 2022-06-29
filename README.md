@@ -4,15 +4,17 @@
 I'm Hubert, a developer from London.
 
    - 👨‍🎓 Currently studying Computer Science.
-   - 🌐 Passionate about creating web applications.
+   - 🌐 Passionate about creating applications.
    - 🎯 On track to become a full-stack developer.
 
 ## Skills
 
-   - **Front-End**: HTML5, CSS3, TailwindCSS, JavaScript, React
-   - **Back-End**: Express.js, MySQL, MongoDB
+   - **Languages**: Python, Java, JavaScript (React)
+   - **Markup**: HTML5, CSS3, TailwindCSS
+   - **Back-End**: MySQL, MongoDB, Express.js
    - **Version Control**: Git, GitHub
-   - **Software**: Visual Studio Code, Figma, Postman
+   - **Software**: VS Code, IntelliJ IDEA, VIM, Figma, Postman
+      - **API**: Insomnia
 
 ## Contact
    - [exotic.dev](https://www.exotic.dev/)
