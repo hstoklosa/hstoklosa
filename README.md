@@ -1,23 +1,23 @@
 ### Hi there 👋
 > Front-End Developer (currently going into Full-Stack)
 
-I'm Hubert, a student & developer from London.
+I'm Hubert, a student & developer from London, UK.
 
-   - 👨‍🎓 Currently studying Computer Science.
+   - 👨‍🎓 Currently studying Computer Science at CUL.
    - 🌐 Passionate about creating applications.
    - 🎯 On track to become a full-stack developer.
 
 ## Skills
 
-   - **Programming**: Java, Python, HTML5, CSS3, JavaScript, SQL, Assembly
-   - **Technology & Libraries**: Java Spring, React, Node.js, Express.js, JWT, Firebase
-   - **Software & Tools**: VS Code, IntelliJ IDEA, Vim, Git, Postman, Axure RP, Visual Paradigm, MS Office
-   - **Languages**: Fluent in Polish & English
+   - **Programming**:             Java, Python, HTML5, CSS3, JavaScript, SQL, Assembly
+   - **Technology & Libraries**:  Java Spring, React, Node.js, Express.js, JWT, Firebase
+   - **Software & Tools**:        VS Code, IntelliJ IDEA, Vim, Git, Postman, Axure RP, Visual Paradigm, MS Office
+   - **Languages**:               Fluent in Polish & English
 
 ## Contact
-   - [exotic.dev](https://www.exotic.dev/)
-   - [Instagram: imxlvs](https://www.instagram.com/imxlvs/) 
-   - [Discord: exotic#3365](./)
+   - [Site: exotic.dev](https://www.exotic.dev/)
+   - [IG: imxlvs](https://www.instagram.com/imxlvs/) 
+   - [DC: exotic#3365](./)
 
     
 <!--
