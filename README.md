@@ -1,7 +1,7 @@
 ### Hi there 👋
 > Front-End Developer (currently going into Full-Stack)
 
-I'm Hubert, a developer from London.
+I'm Hubert, a student & developer from London.
 
    - 👨‍🎓 Currently studying Computer Science.
    - 🌐 Passionate about creating applications.
@@ -9,15 +9,10 @@ I'm Hubert, a developer from London.
 
 ## Skills
 
-   - **Languages**: Python, Java, JavaScript (Library: React.js)
-   - **Markup**: HTML5, CSS3, TailwindCSS, Markdown
-   - **Back-End**: MySQL, MongoDB, Node.js (Library: Express.js)
-   - **Version Control**: Git, GitHub
-   
-   - **Software** 
-      - **API**: Postman, Insomnia
-      - **Development**: VS Code, IntelliJ IDEA, Vim
-      - **Design**: Figma, Axure RP
+   - **Programming**: Java, Python, HTML5, CSS3, JavaScript, SQL, Assembly
+   - **Technology & Libraries**: Java Spring, React, Node.js, Express.js, JWT, Firebase
+   - **Software & Tools**: VS Code, IntelliJ IDEA, Vim, Git, Postman, Axure RP, Visual Paradigm, MS Office
+   - **Languages**: Fluent in Polish & English
 
 ## Contact
    - [exotic.dev](https://www.exotic.dev/)
