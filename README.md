@@ -1,7 +1,7 @@
 ### Hi there 👋
 > Front-End Developer (currently going into Full-Stack)
 
-I'm Hubert, a student & developer from London, UK.
+I'm Hubert, a student & developer based in London, UK.
 
    - 👨‍🎓 Currently studying Computer Science at CUL.
    - 🌐 Passionate about creating applications.
@@ -15,7 +15,7 @@ I'm Hubert, a student & developer from London, UK.
    - **Languages**:               Fluent in Polish & English
 
 ## Contact
-   - [Site: exotic.dev](https://www.exotic.dev/)
+   - [Site: COMING SOON](https://www.exotic.dev/)
    - [IG: imxlvs](https://www.instagram.com/imxlvs/) 
    - [DC: exotic#3365](./)
 
