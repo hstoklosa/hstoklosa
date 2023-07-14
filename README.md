@@ -10,7 +10,7 @@ I'm Hubert, a student & developer based in London, UK.
    - **Programming**:             Java, Python, HTML5, CSS3, JavaScript, SQL, Assembly
    - **Technology & Libraries**:  Java Spring, React, Node.js, Express.js, JWT, Firebase
    - **Software & Tools**:        VS Code, IntelliJ IDEA, Vim, Git, Postman, Axure RP, Visual Paradigm, MS Office
-   - **Languages**:               Fluent in Polish & English
+   - **Languages**:               Polish, English
 
 ## Contact
    - [Site](imexotic.vercel.app/)
