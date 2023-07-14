@@ -1,6 +1,10 @@
 ### Hi there 👋
 I'm Hubert, a student & developer based in London, UK.
 
+<a href="https://discord.com/users/414304208649453568" target="_blank" rel="nofollow">
+   <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence">
+</a>
+
 ## Skills
 
    - **Programming**:             Java, Python, HTML5, CSS3, JavaScript, SQL, Assembly
