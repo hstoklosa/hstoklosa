@@ -1,10 +1,6 @@
 ### Hi there 👋
 I'm Hubert, a student & developer based in London, UK.
 
-<a href="https://discord.com/users/527963473184030720" target="_blank" rel="nofollow">
-   <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence">
-</a>
-
 ## Skills
 
    - **Programming**:             Java, Python, HTML5, CSS3, JavaScript, SQL, Assembly
@@ -13,6 +9,11 @@ I'm Hubert, a student & developer based in London, UK.
    - **Languages**:               Polish, English
 
 ## Contact
+
+<a href="https://discord.com/users/527963473184030720" target="_blank" rel="nofollow" align="right">
+   <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence">
+</a>
+
    - [Site](imexotic.vercel.app/)
    - [Twitter](https://twitter.com/exotic2137) 
    - [Discord](https://discord.gg/EF84a7Nn)
