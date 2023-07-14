@@ -10,8 +10,8 @@ I'm Hubert, a student & developer based in London, UK.
 
 ## Contact
 
-<a href="https://discord.com/users/527963473184030720" target="_blank" rel="nofollow" align="right">
-   <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence">
+<a href="https://discord.com/users/527963473184030720" target="_blank" rel="nofollow">
+   <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence" align="right">
 </a>
 
    - [Site](imexotic.vercel.app/)
