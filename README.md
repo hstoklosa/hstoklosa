@@ -18,7 +18,7 @@ I'm Hubert, a student & developer based in London, UK.
    - [Portfolio](imexotic.vercel.app/)
    - [X/Twitter](https://twitter.com/exotic2137) 
    - [Discord](https://discord.gg/EF84a7Nn)
-   - [Resume]
+   - [Resume](https://discord.gg/EF84a7Nn)
 
     
 <!--
