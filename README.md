@@ -18,7 +18,7 @@ I'm Hubert, a student & developer based in London, UK.
    - [Portfolio](https://www.hstoklosa.dev/)
    - [X/Twitter](https://twitter.com/exotic2137) 
    - [Discord](https://discord.gg/EF84a7Nn)
-   - [Resume](https://drive.google.com/file/d/1mHCMbl-KK_DODhwogOnFV9CzzjsqwRGh/view)
+   - [Resume](https://drive.google.com/file/d/1FlvtxVFpLLGsIeMxo-kqbADCfyf8ZlSS/view)
 
     
 <!--
