@@ -4,7 +4,7 @@ I'm Hubert, a student & developer based in London, UK.
 ## Skills
 
    - **Programming**:                 Python, Java, C++, Swift, JavaScript/TypeScript, HTML, CSS
-   - **Technologies & Libraries**:    React, Redux, Node.js, Express.js, JWT, Socket.IO, Sessions, Cookies, 
+   - **Technologies & Libraries**:    React, Redux, Node.js, WebSocket, Express.js, JWT, Sessions, Cookies
    - **Databases**:                   MySQL, PostgreSQL, MongoDB, Firebase Cloud
    - **Software & Tools**:            Git, Postman, Docker, Linux, Visual Paradigm, VS Code, IntelliJ IDEA, MS Office
    - **Languages**:                   Polish, English
@@ -18,7 +18,7 @@ I'm Hubert, a student & developer based in London, UK.
    - [Portfolio](https://www.hstoklosa.dev/)
    - [X/Twitter](https://twitter.com/exotic2137) 
    - [Discord](https://discord.gg/EF84a7Nn)
-   - [Resume](https://discord.gg/EF84a7Nn)
+   - [Resume](https://drive.google.com/file/d/1mHCMbl-KK_DODhwogOnFV9CzzjsqwRGh/view)
 
     
 <!--
