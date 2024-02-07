@@ -10,7 +10,8 @@ I'm Hubert, a student & developer based in London, UK.
 -   **Software & Tools**: Git, Postman, Docker, Linux, Visual Paradigm, VS Code, IntelliJ IDEA, MS Office
 -   **Languages**: Polish (Native), English (Billingual/Fluent)
 
-## Contact
+<br>
+<br>
 
 <p align="center">
   <p align="center">
