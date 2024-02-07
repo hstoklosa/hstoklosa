@@ -10,8 +10,7 @@ I'm Hubert, a student & developer based in London, UK.
 -   **Software & Tools**: Git, Postman, Docker, Linux, Visual Paradigm, VS Code, IntelliJ IDEA, MS Office
 -   **Languages**: Polish (Native), English (Billingual/Fluent)
 
-<br>
-<br>
+## Contact
 
 <p align="center">
   <p align="center">
@@ -21,12 +20,12 @@ I'm Hubert, a student & developer based in London, UK.
   </p>
   <p align="center">
     <a href="https://www.hstoklosa.dev/">Portfolio</a>
-    ·
-    <a href="https://twitter.com/exotic2137">X</a>
-    ·
-    <a href="https://discord.com/users/527963473184030720">Discord</a>
-    ·
+    •
     <a href="https://www.linkedin.com/in/hubertstoklosa">LinkedIn</a>
+    •
+    <a href="https://twitter.com/exotic2137">X</a>
+    •
+    <a href="https://discord.com/users/527963473184030720">Discord</a>
   </p>
 
 </p>
