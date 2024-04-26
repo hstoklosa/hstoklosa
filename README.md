@@ -4,10 +4,11 @@ I'm Hubert, a student & developer based in London, UK.
 
 ## Skills
 
--   **Programming**:                  Python, Java, C++, Swift, JavaScript/TypeScript, HTML, CSS
+-   **Programming**:                  Java, Python, JavaScript, TypeScript, C++, Swift, HTML, CSS
 -   **Technologies & Libraries**:     React, Redux, Node.js, WebSocket, Express.js, JWT, Sessions, Cookies
 -   **Databases**:                    MySQL, PostgreSQL, MongoDB, Firebase Cloud
--   **Software & Tools**:             Git, Postman, Docker, Linux, Visual Paradigm, VS Code, IntelliJ IDEA, MS Office
+-   **Software & Tools**:             Git, Docker, Linux, Visual Paradigm, VS Code, IntelliJ IDEA, MS Office
+-   **Testing**:                      Postman, Insomnia, JUnit, Storybook
 -   **Languages**:                    Polish (Native), English (Billingual/Fluent)
 
 ## Links
