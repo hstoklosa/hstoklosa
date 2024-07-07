@@ -32,17 +32,15 @@ I'm Hubert, a student & developer based in London, UK.
 </p>    
 -->
 
-<p align="center">
-  <a href="https://www.hstoklosa.dev/">
+  <a href="https://www.hstoklosa.dev/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/hubertstoklosa">
+  <a href="https://www.linkedin.com/in/hubertstoklosa" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/exotic2137">
+  <a href="https://twitter.com/exotic2137" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="https://discord.com/users/527963473184030720">
+  <a href="https://discord.com/users/527963473184030720" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</p>
