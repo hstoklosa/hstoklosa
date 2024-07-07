@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Hubert, a student & developer based in London, UK.
+I am Hubert, a student & developer based in London, UK.
+
+## 🚀 What I'm Up To
+
+💻 Building Spring Boot applications with PostgreSQL
+🤖 Exploring AI/ML with Python
 
 ## Skills
 
@@ -20,6 +25,7 @@ I'm Hubert, a student & developer based in London, UK.
         <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence" width="" align="center">
     </a>
   </p> -->
+  
 <p align="left">
     <a href="https://www.hstoklosa.dev/">Portfolio</a>
     •
