@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there 
 
 I am Hubert, a student & developer based in London, UK.
 
