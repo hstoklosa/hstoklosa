@@ -7,14 +7,13 @@ I am Hubert, a student & developer based in London, UK.
 - 💻 Building Spring Boot applications with PostgreSQL
 - 🤖 Exploring AI/ML with Python
 
-## Skills
+## 💻 Tech Stack
 
 -   **Programming**:                  Java, Python, JavaScript, TypeScript, C++, Swift, HTML, CSS
 -   **Technologies & Libraries**:     React, Redux, Node.js, WebSocket, Express.js, JWT, Sessions, Cookies
 -   **Databases**:                    MySQL, PostgreSQL, MongoDB, Firebase Cloud
 -   **Software & Tools**:             Git, Docker, Linux, Visual Paradigm, VS Code, IntelliJ IDEA, MS Office
 -   **Testing**:                      Postman, Insomnia, JUnit, Storybook
--   **Languages**:                    Polish (Native), English (Billingual/Fluent)
 
 ## Links
 
