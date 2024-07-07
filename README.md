@@ -4,8 +4,8 @@ I am Hubert, a student & developer based in London, UK.
 
 ## 🚀 What I'm Up To
 
-💻 Building Spring Boot applications with PostgreSQL
-🤖 Exploring AI/ML with Python
+- 💻 Building Spring Boot applications with PostgreSQL
+- 🤖 Exploring AI/ML with Python
 
 ## Skills
 
