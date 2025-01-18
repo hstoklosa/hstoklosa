@@ -10,11 +10,11 @@ I am Hubert, a student & developer based in London, UK.
 
 ## 💻 Tech Stack
 
--   **Programming Languages**: Java, Go, JavaScript/TypeScript, Python, C++
+-   **Programming Languages**: JavaScript/TypeScript, Java, Go, Python
 -   **Frontend Development**: React, Redux, React Query, Tailwind, Storybook
--   **Backend Development**: Spring Boot, Node.js, Express, WebSocket, JWT, Sessions
+-   **Backend Development**: Spring Boot, Node.js, WebSockets
 -   **Databases & Cloud**: MySQL, PostgreSQL, MongoDB, Google Cloud, Firebase
--   **Development Tools**: Git, Docker, Visual Paradigm (UML), VS Code, IntelliJ IDEA
+-   **Development Tools**: Git, Docker, Visual Paradigm, VS Code, IntelliJ IDEA
 -   **Testing Tools & Frameworks**: Postman, Insomnia, JUnit, Mockito, Testcontainers, Vitest, React Testing Library
 
 <!-- 
