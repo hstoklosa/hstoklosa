@@ -17,8 +17,10 @@ I am Hubert, a student & software developer based in London, UK.
 <!-- https://github.com/Trixzyy/skill-icons-builder -->
 
 <details closed>
-  <summary><b>&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
+    <summary>
+        <b>&nbsp;Tech&nbsp;Stack</b>
+    </summary>
+    <br/>
 
 **Languages**
 
@@ -51,7 +53,7 @@ I am Hubert, a student & software developer based in London, UK.
 </details>
 
 <details closed>
-  <summary><b>&nbsp;Language&nbsp;/&nbsp;Framework Stats</b></summary>
+  <summary><b>&nbsp;Statistics</b></summary>
   <br/>
   <!-- <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
@@ -91,28 +93,28 @@ I am Hubert, a student & software developer based in London, UK.
 </p>
 -->
 
-### Contact
+#### Connect with me
 
 <!-- Check out my <a href="https://www.hstoklosa.dev/">portfolio</a> website! -->
 
-[![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
+<!-- [![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
 [![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)](https://x.com/hyprxotic/)&nbsp;&nbsp;
 [![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)](https://discord.com/users/527963473184030720)&nbsp;&nbsp;
 [![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true)](https://app.daily.dev/exotic)&nbsp;&nbsp;
-[![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true)](https://leetcode.com/u/hstoklosa/)
+[![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true)](https://leetcode.com/u/hstoklosa/) -->
 
-<!-- <a href="https://www.linkedin.com/in/hubertstoklosa/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="LinkedIn" height="45" />
-</a>&nbsp;&nbsp;
-<a href="https://x.com/hyprxotic/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" alt="X" height="45" />
-</a>&nbsp;&nbsp;
-<a href="https://discord.com/users/527963473184030720" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" alt="Discord" height="45" />
-</a>&nbsp;&nbsp;
-<a href="https://app.daily.dev/exotic" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" alt="Daily.dev" height="45" />
-</a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/hstoklosa/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" alt="LeetCode" height="45" />
-</a> -->
+<a href="https://www.linkedin.com/in/hubertstoklosa/" target="_blank" style="text-decoration: none;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="LinkedIn" height="40" />
+</a>&nbsp;
+<a href="https://x.com/hyprxotic/" target="_blank" style="text-decoration: none;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" alt="X" height="40" />
+</a>&nbsp;
+<a href="https://discord.com/users/527963473184030720" target="_blank" style="text-decoration: none;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" alt="Discord" height="40" />
+</a>&nbsp;
+<a href="https://app.daily.dev/exotic" target="_blank" style="text-decoration: none;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" alt="Daily.dev" height="40" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/hstoklosa/" target="_blank" style="text-decoration: none;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" alt="LeetCode" height="40" />
+</a>
