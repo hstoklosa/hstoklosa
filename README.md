@@ -33,7 +33,7 @@ I am Hubert, a student & developer based in London, UK.
     <a href="https://discord.com/users/527963473184030720" target="_blank" rel="nofollow">
         <img src="https://lanyard.cnrad.dev/api/527963473184030720?idleMessage=Probably%20doing%20something..." alt="Discord Presence" width="" align="center">
     </a>
-  </p> -->
+  </p> 
   
 <p align="left">
     <a href="https://www.hstoklosa.dev/">Portfolio</a>
@@ -45,3 +45,10 @@ I am Hubert, a student & developer based in London, UK.
     <a href="https://discord.com/users/527963473184030720">Discord</a>
   </p> 
 </p>
+-->
+
+Check out my website: <a href="https://www.hstoklosa.dev/">Portfolio</a>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hubertstoklosa/)
+[![X](https://img.shields.io/badge/@hyprxotic-%23000000.svg?logo=X&logoColor=white)](https://x.com/hyprxotic/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/527963473184030720)
