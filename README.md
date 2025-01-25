@@ -2,13 +2,17 @@
 
 I am Hubert, a student & developer based in London, UK.
 
-## 🚀 What I'm Up To
+<!-- ## 🚀 What I'm Up To -->
+
+**Projects:**
 
 - 💻 Building full-stack applications with Spring Boot and PostgreSQL
 - 📦 Developing an extension of the JJWT library to streamline API authentications
 - 🤖 Exploring AI/ML with Python and its applications in the financial sector
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack -->
+
+**Tech Stack:**
 
 -   **Programming Languages**: JavaScript/TypeScript, Java, Go, Python
 -   **Frontend Development**: React, Redux, React Query, Tailwind, Storybook
