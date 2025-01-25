@@ -29,7 +29,7 @@ I am Hubert, a student & developer based in London, UK.
 -   **Testing**:                      Postman, Insomnia, JUnit, Mockito, Testcontainers, Vitest, React Testing Library, Storybook
 -->
 
-## Links
+<!-- ## Links -->
 
 <!--   
 <p align="center">
