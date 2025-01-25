@@ -2,8 +2,6 @@
 
 I am Hubert, a student & software developer based in London, UK.
 
-<!-- ## 🚀 What I'm Up To -->
-
 #### Projects
 
 - 💻 Building full-stack applications with Spring Boot and PostgreSQL
@@ -22,15 +20,14 @@ I am Hubert, a student & software developer based in London, UK.
     </summary>
     <br/>
 
-**Languages**
+<b style="margin-top:1rem;">Languages</b><div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,js,ts,java,python,haskell,mysql,postgresql&titles=true" alt="Languages" height="35" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,js,ts,java,python,haskell,mysql,postgresql&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" />
+</div>
 
 <!-- ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,java,python,haskell&titles=true) -->
 
-**Frameworks**
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,svelte,vitest,spring,nodejs,express&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" />
+<b style="margin-top:1rem;">Frameworks</b><div><img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,svelte,vitest,spring,nodejs,express&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" /></div>
 
 <!-- **Backend:**
 
@@ -93,7 +90,13 @@ I am Hubert, a student & software developer based in London, UK.
 </p>
 -->
 
-#### Connect with me
+#### Find me here
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" height="40" alt="LinkedIn">](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="40" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" height="40" alt="Discord">](https://discord.com/users/527963473184030720)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" height="40" alt="Daily.dev">](https://app.daily.dev/exotic)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" height="40" alt="LeetCode">](https://leetcode.com/u/hstoklosa/)
 
 <!-- Check out my <a href="https://www.hstoklosa.dev/">portfolio</a> website! -->
 
@@ -103,7 +106,7 @@ I am Hubert, a student & software developer based in London, UK.
 [![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true)](https://app.daily.dev/exotic)&nbsp;&nbsp;
 [![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true)](https://leetcode.com/u/hstoklosa/) -->
 
-<a href="https://www.linkedin.com/in/hubertstoklosa/" target="_blank" style="text-decoration: none;">
+<!-- <a href="https://www.linkedin.com/in/hubertstoklosa/" target="_blank" style="text-decoration: none;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="LinkedIn" height="40" />
 </a>&nbsp;
 <a href="https://x.com/hyprxotic/" target="_blank" style="text-decoration: none;">
@@ -117,4 +120,4 @@ I am Hubert, a student & software developer based in London, UK.
 </a>&nbsp;
 <a href="https://leetcode.com/u/hstoklosa/" target="_blank" style="text-decoration: none;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" alt="LeetCode" height="40" />
-</a>
+</a> -->
