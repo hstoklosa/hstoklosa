@@ -21,23 +21,18 @@ I am Hubert, a student & software developer based in London, UK.
     <br/>
 
 <b style="margin-top:1rem;">Languages</b><div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,js,ts,java,python,haskell,mysql,postgresql&titles=true" alt="Languages" height="35" />
-
-</div>
-
-<!-- ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,java,python,haskell&titles=true) -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,js,ts,java,python,haskell,mysql,postgresql&titles=true" alt="Languages" height="35" /></div>
 
 <b style="margin-top:1rem;">Frameworks</b><div><img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,svelte,vitest,spring,nodejs,express&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" /></div>
 
+<b style="margin-top:1rem;">Tools</b><div><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,git,docker,postman,insomnia,vite,socketio&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" /></div>
+
+<!-- ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,java,python,haskell&titles=true) -->
 <!-- **Backend:**
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=,mysql,postgres,mongodb&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" /> -->
 
 <!-- ![Backend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,express,socketio,mysql,postgres,mongodb&titles=true) -->
-
-**Tools**
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,git,docker,postman,insomnia,vite,socketio&titles=true" alt="Languages" height="35" style="margin-bottom:1rem" />
 
 <!-- ![Development Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,git,docker,vite,vscode,idea&titles=true) -->
 
@@ -90,13 +85,13 @@ I am Hubert, a student & software developer based in London, UK.
 </p>
 -->
 
-#### Find me here
+#### Links
 
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" height="40" alt="LinkedIn">](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="40" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" height="40" alt="Discord">](https://discord.com/users/527963473184030720)&nbsp;&nbsp;
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" height="40" alt="Daily.dev">](https://app.daily.dev/exotic)&nbsp;&nbsp;
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" height="40" alt="LeetCode">](https://leetcode.com/u/hstoklosa/)
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" height="35" alt="LinkedIn">](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="35" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" height="35" alt="Discord">](https://discord.com/users/527963473184030720)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" height="35" alt="Daily.dev">](https://app.daily.dev/exotic)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" height="35" alt="LeetCode">](https://leetcode.com/u/hstoklosa/)
 
 <!-- Check out my <a href="https://www.hstoklosa.dev/">portfolio</a> website! -->
 
