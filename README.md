@@ -47,7 +47,7 @@ I am Hubert, a student & developer based in London, UK.
 </p>
 -->
 
-Check out my website: <a href="https://www.hstoklosa.dev/">Portfolio</a>
+Check out my <a href="https://www.hstoklosa.dev/">website</a>!
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hubertstoklosa/)
 [![X](https://img.shields.io/badge/@hyprxotic-%23000000.svg?logo=X&logoColor=white)](https://x.com/hyprxotic/)
