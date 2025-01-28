@@ -20,15 +20,15 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 
 ### Tech Stack
 
-#### Languages
+<!--#### Languages-->
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=go,js,ts,java,python,haskell&titles=true" alt="Languages" height="30" />
 
-#### Frameworks
+<!--#### Frameworks-->
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,svelte,tailwind,spring,nodejs,express,vitest&titles=true" alt="Languages" height="30" />
 
-#### Tools
+<!--#### Tools-->
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,git,docker,postman,insomnia,vite,socketio&titles=true" alt="Languages" height="30" />
 
