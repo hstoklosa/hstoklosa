@@ -12,8 +12,6 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 <!-- FORK: https://github.com/LelouchFR/skill-icons -->
 <!-- https://github.com/Trixzyy/skill-icons-builder -->
 
-<br/>
-
 <a href="https://github.com/hstoklosa">
     <img max-height="400" width="400" src="./assets/prog_humour.jpeg">
 </a>
