@@ -15,7 +15,7 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 <br/>
 
 <a href="https://github.com/hstoklosa">
-    <img max-height="400" width="350" src="./assets/prog_humour.jpeg">
+    <img max-height="400" width="400" src="./assets/prog_humour.jpeg">
 </a>
 
 ### Tech Stack
