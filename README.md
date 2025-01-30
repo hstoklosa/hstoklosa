@@ -36,6 +36,7 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="35" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" height="35" alt="Discord">](https://discord.com/users/527963473184030720)&nbsp;&nbsp;
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" height="35" alt="Daily.dev">](https://app.daily.dev/exotic)&nbsp;&nbsp;
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true" height="35" alt="Gmail">](hubert.stoklosa23@gmail.com)
 
 <!-- Check out my <a href="https://www.hstoklosa.dev/">portfolio</a> website! -->
 
