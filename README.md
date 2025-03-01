@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and software developer based in London, UK.
-
+<!--
 - 💻 Building full-stack applications with Spring Boot and PostgreSQL
 - 📦 Developing an extension of the JJWT library to streamline API authentications
 - 🤖 Exploring AI/ML with Python and its applications in the financial sector
-
+-->
 <!-- ## 💻 Tech Stack -->
 <!-- https://github.com/inttter/md-badges -->
 <!-- https://github.com/tandpfun/skill-icons -->
