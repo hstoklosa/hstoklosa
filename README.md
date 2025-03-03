@@ -28,7 +28,7 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 
 <!--#### Tools-->
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,git,docker,postman,insomnia,vite,socketio&titles=true" alt="Languages" height="30" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,aws,gcp,docker,postman,insomnia,vite,socketio&titles=true" alt="Languages" height="30" />
 
 ### Connect with me
 
