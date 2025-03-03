@@ -24,7 +24,7 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 
 <!--#### Frameworks-->
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,svelte,redux,tailwind,spring,nodejs,express,vitest&titles=true" alt="Languages" height="30" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,svelte,redux,nodejs,express,spring,vitest,tailwind&titles=true" alt="Languages" height="30" />
 
 <!--#### Tools-->
 
