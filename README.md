@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Full-stack developer and final year CS student at [CUoL](https://www.city.ac.uk/) based in London, UK.
+Full-stack developer and a final year CS student at [CUoL](https://www.city.ac.uk/) based in London, UK.
 
 <!--
 - 💻 Building full-stack applications with Spring Boot and PostgreSQL
