@@ -1,22 +1,25 @@
+
 ### Hi there 👋
 
-I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and software developer based in London, UK.
+Full-stack developer and final year CS student at [CUoL](https://www.city.ac.uk/) based in London, UK.
+
 <!--
 - 💻 Building full-stack applications with Spring Boot and PostgreSQL
 - 📦 Developing an extension of the JJWT library to streamline API authentications
 - 🤖 Exploring AI/ML with Python and its applications in the financial sector
+
+<a href="https://github.com/hstoklosa">
+    <img max-height="400" width="400" src="./assets/prog_humour.jpeg">
+</a>
 -->
+
 <!-- ## 💻 Tech Stack -->
 <!-- https://github.com/inttter/md-badges -->
 <!-- https://github.com/tandpfun/skill-icons -->
 <!-- FORK: https://github.com/LelouchFR/skill-icons -->
 <!-- https://github.com/Trixzyy/skill-icons-builder -->
 
-<a href="https://github.com/hstoklosa">
-    <img max-height="400" width="400" src="./assets/prog_humour.jpeg">
-</a>
-
-### Tech Stack
+#### Tech Stack
 
 <!--#### Languages-->
 
@@ -30,7 +33,7 @@ I'm Hubert, a final year CS student at [CUoL](https://www.city.ac.uk/) and softw
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,aws,gcp,docker,postman,insomnia,vite,socketio&titles=true" alt="Languages" height="30" />
 
-### Connect with me
+#### Connect with me
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" height="30" alt="LinkedIn">](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="30" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;
