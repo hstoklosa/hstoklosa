@@ -23,7 +23,7 @@ Full-stack developer and final year CS student at [CUoL](https://www.city.ac.uk/
 
 <!--#### Languages-->
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,js,ts,java,python,haskell&titles=true" alt="Languages" height="30" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,java,haskell&titles=true" alt="Languages" height="30" />
 
 <!--#### Frameworks-->
 
@@ -36,7 +36,7 @@ Full-stack developer and final year CS student at [CUoL](https://www.city.ac.uk/
 #### Connect with me
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" height="30" alt="LinkedIn">](https://www.linkedin.com/in/hubertstoklosa/)&nbsp;&nbsp;
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="30" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;
+<!--[<img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" height="30" alt="X">](https://x.com/hyprxotic/)&nbsp;&nbsp;-->
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true" height="30" alt="Discord">](https://discord.com/users/527963473184030720)&nbsp;&nbsp;
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true" height="30" alt="Gmail">](mailto:hubert.stoklosa23@gmail.com)&nbsp;&nbsp;
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev&titles=true" height="30" alt="Daily.dev">](https://app.daily.dev/exotic)
