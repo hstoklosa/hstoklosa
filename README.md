@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Full-stack developer and final year CS student at [CUoL](https://www.city.ac.uk/) based in London.
+Full-stack developer and recent CS graduate from [CUoL](https://www.city.ac.uk/) based in London.
 
 <!--
 - 💻 Building full-stack applications with Spring Boot and PostgreSQL
@@ -27,7 +27,7 @@ Full-stack developer and final year CS student at [CUoL](https://www.city.ac.uk/
 
 <!--#### Frameworks-->
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,svelte,redux,nodejs,express,spring,vitest,tailwind&titles=true" alt="Languages" height="30" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,svelte,redux,nodejs,express,spring,vitest,tailwind&titles=true" alt="Languages" height="30" />
 
 <!--#### Tools-->
 
